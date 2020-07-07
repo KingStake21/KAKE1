@@ -1,3 +1,15 @@
+echo "###########################################################
+#                                                               #
+#  This script was written by the pool opererator KAKE1         #
+#                                                               #
+#  This script is not an official IOHK approved script 	 		#
+#  and therefore should not be treated as such. It is 			#
+#  created to assist in an easy and automated way to 			#
+#  renew the KES and regenerate an Operational Certificate.    	#
+#                                                 				#                                                             
+#  																#
+#################################################################"
+
 cd ~/shelley/cardano-my-node
 
 #Find the current tip
